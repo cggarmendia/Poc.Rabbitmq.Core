@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FB756978-1BDE-49D6-9EB4-F83F7B051AE4}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Poc.Rabbitmq.Core.Infrastructure.Provider</RootNamespace>
+    <AssemblyName>Poc.Rabbitmq.Core.Infrastructure.Provider</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Contracts\AccountManager\IAccountManagerService.cs" />
+    <Compile Include="Contracts\Authentication\IAuthenticationService.cs" />
+    <Compile Include="Contracts\Booking\IBookingCalculator.cs" />
+    <Compile Include="Contracts\Booking\IBookingCommiter.cs" />
+    <Compile Include="Contracts\Booking\IBookingService.cs" />
+    <Compile Include="Contracts\ComponentFactory\IComponentFactory.cs" />
+    <Compile Include="Contracts\Core\ICoreService.cs" />
+    <Compile Include="Contracts\Fee\IFeeService.cs" />
+    <Compile Include="Contracts\Payment\IPaymentService.cs" />
+    <Compile Include="Contracts\SSR\ISSRService.cs" />
+    <Compile Include="Dto\AccountManager\Account.cs" />
+    <Compile Include="Dto\AccountManager\AccountCreditShell.cs" />
+    <Compile Include="Dto\Authentication\Session.cs" />
+    <Compile Include="Dto\Booking\FeeRequest.cs" />
+    <Compile Include="Dto\Booking\SellPenaltyFeeRequest.cs" />
+    <Compile Include="Dto\Booking\SellServiceFeeRequest.cs" />
+    <Compile Include="Dto\Booking\SellSpoilageFeeRequest.cs" />
+    <Compile Include="Dto\Booking\SSRRequest.cs" />
+    <Compile Include="Dto\Common\Address.cs" />
+    <Compile Include="Dto\Common\Booking.cs" />
+    <Compile Include="Dto\Common\BookingDelta.cs" />
+    <Compile Include="Dto\Common\Journey.cs" />
+    <Compile Include="Dto\Common\Passenger.cs" />
+    <Compile Include="Dto\Common\PassengerFee.cs" />
+    <Compile Include="Dto\Common\PassengerSsr.cs" />
+    <Compile Include="Dto\Common\Segment.cs" />
+    <Compile Include="Dto\Core\AccountTransactionCode.cs" />
+    <Compile Include="Dto\Payment\AddPaymentResponse.cs" />
+    <Compile Include="Dto\Payment\Payment.cs" />
+    <Compile Include="Dto\Payment\PaymentMethodType.cs" />
+    <Compile Include="Dto\Payment\PaymentState.cs" />
+    <Compile Include="Dto\Payment\PaymentStatus.cs" />
+    <Compile Include="Dto\Payment\PaymentToBooking.cs" />
+    <Compile Include="Dto\SSR\SellSSR.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

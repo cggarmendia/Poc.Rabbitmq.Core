@@ -1,0 +1,126 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.7.2": {
+      "Vueling.Messaging.Message/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net35/Vueling.Messaging.Message.dll": {}
+        },
+        "runtime": {
+          "lib/net35/Vueling.Messaging.Message.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win": {
+      "Vueling.Messaging.Message/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net35/Vueling.Messaging.Message.dll": {}
+        },
+        "runtime": {
+          "lib/net35/Vueling.Messaging.Message.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x64": {
+      "Vueling.Messaging.Message/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net35/Vueling.Messaging.Message.dll": {}
+        },
+        "runtime": {
+          "lib/net35/Vueling.Messaging.Message.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.7.2/win-x86": {
+      "Vueling.Messaging.Message/1.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net35/Vueling.Messaging.Message.dll": {}
+        },
+        "runtime": {
+          "lib/net35/Vueling.Messaging.Message.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Vueling.Messaging.Message/1.0.2": {
+      "sha512": "3BKSY5LK0LM9eaCsLPDbwi1ol0+NkAN7L09vMTMY3m4/whiJBpccbjQ7WuZmAxY39nx/gS+ok6FLRSjNwyW2qA==",
+      "type": "package",
+      "path": "vueling.messaging.message/1.0.2",
+      "files": [
+        ".nupkg.metadata",
+        "lib/net35/Vueling.Messaging.Message.dll",
+        "lib/net35/Vueling.Messaging.Message.pdb",
+        "vueling.messaging.message.1.0.2.nupkg.sha512",
+        "vueling.messaging.message.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.7.2": [
+      "Vueling.Messaging.Message >= 1.0.2"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\claudiogg\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\src\\Poc.Rabbitmq.Core\\Poc.Rabbitmq.Core.Message.Domain\\Poc.Rabbitmq.Core.Message.Domain.csproj",
+      "projectName": "Poc.Rabbitmq.Core.Message.Domain",
+      "projectPath": "C:\\src\\Poc.Rabbitmq.Core\\Poc.Rabbitmq.Core.Message.Domain\\Poc.Rabbitmq.Core.Message.Domain.csproj",
+      "packagesPath": "C:\\Users\\claudiogg\\.nuget\\packages\\",
+      "outputPath": "C:\\src\\Poc.Rabbitmq.Core\\Poc.Rabbitmq.Core.Message.Domain\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\claudiogg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net472"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.vueling.com/nuget/": {},
+        "https://vueling.pkgs.visualstudio.com/_packaging/vy-nuget/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net472": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net472": {
+        "dependencies": {
+          "Vueling.Messaging.Message": {
+            "target": "Package",
+            "version": "[1.0.2, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}

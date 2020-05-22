@@ -1,0 +1,8 @@
+C:\VY\Vueling.Contingency.Core\Vueling.Contingency.Message.Domain\bin\Debug\Vueling.Contingency.Message.Domain.dll
+C:\VY\Vueling.Contingency.Core\Vueling.Contingency.Message.Domain\bin\Debug\Vueling.Contingency.Message.Domain.pdb
+C:\VY\Vueling.Contingency.Core\Vueling.Contingency.Message.Domain\bin\Debug\Vueling.Messaging.Message.dll
+C:\VY\Vueling.Contingency.Core\Vueling.Contingency.Message.Domain\bin\Debug\Vueling.Messaging.Message.pdb
+C:\VY\Vueling.Contingency.Core\Vueling.Contingency.Message.Domain\obj\Debug\Vueling.Contingency.Message.Domain.csproj.CoreCompileInputs.cache
+C:\VY\Vueling.Contingency.Core\Vueling.Contingency.Message.Domain\obj\Debug\Vueling.Contingency.Message.Domain.csproj.CopyComplete
+C:\VY\Vueling.Contingency.Core\Vueling.Contingency.Message.Domain\obj\Debug\Vueling.Contingency.Message.Domain.dll
+C:\VY\Vueling.Contingency.Core\Vueling.Contingency.Message.Domain\obj\Debug\Vueling.Contingency.Message.Domain.pdb

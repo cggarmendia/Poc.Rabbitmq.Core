@@ -1,0 +1,9 @@
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Message.Domain\bin\Debug\Poc.Rabbitmq.Core.Message.Domain.dll
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Message.Domain\bin\Debug\Poc.Rabbitmq.Core.Message.Domain.pdb
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Message.Domain\bin\Debug\Vueling.Messaging.Message.dll
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Message.Domain\bin\Debug\Vueling.Messaging.Message.pdb
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Message.Domain\obj\Debug\Poc.Rabbitmq.Core.Message.Domain.csprojAssemblyReference.cache
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Message.Domain\obj\Debug\Poc.Rabbitmq.Core.Message.Domain.csproj.CoreCompileInputs.cache
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Message.Domain\obj\Debug\Poc.Rabbitmq.Core.Message.Domain.csproj.CopyComplete
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Message.Domain\obj\Debug\Poc.Rabbitmq.Core.Message.Domain.dll
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Message.Domain\obj\Debug\Poc.Rabbitmq.Core.Message.Domain.pdb
