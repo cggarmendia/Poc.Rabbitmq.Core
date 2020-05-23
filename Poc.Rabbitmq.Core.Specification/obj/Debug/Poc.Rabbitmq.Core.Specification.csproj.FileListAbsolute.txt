@@ -1,5 +1,3 @@
-C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\obj\Debug\Poc.Rabbitmq.Core.Specification.csprojAssemblyReference.cache
-C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\obj\Debug\Poc.Rabbitmq.Core.Specification.csproj.CoreCompileInputs.cache
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\bin\Debug\Poc.Rabbitmq.Core.Specification.dll
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\bin\Debug\Poc.Rabbitmq.Core.Specification.pdb
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
@@ -21,6 +19,8 @@ C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\bin\Debug\Poc.Rabbitmq.
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\bin\Debug\Poc.Rabbitmq.Core.Infrastructure.Cache.pdb
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\bin\Debug\Poc.Rabbitmq.Core.Infrastructure.ProviderZ.pdb
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\bin\Debug\Poc.Rabbitmq.Core.Infrastructure.Provider.pdb
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\obj\Debug\Poc.Rabbitmq.Core.Specification.csprojAssemblyReference.cache
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\obj\Debug\Poc.Rabbitmq.Core.Specification.csproj.CoreCompileInputs.cache
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\obj\Debug\Poc.Rabbitmq.Core.Specification.csproj.CopyComplete
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\obj\Debug\Poc.Rabbitmq.Core.Specification.dll
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Specification\obj\Debug\Poc.Rabbitmq.Core.Specification.pdb

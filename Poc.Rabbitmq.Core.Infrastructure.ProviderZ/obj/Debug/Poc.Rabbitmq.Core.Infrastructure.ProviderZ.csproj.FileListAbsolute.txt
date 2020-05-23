@@ -1,5 +1,3 @@
-C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.ProviderZ.csprojAssemblyReference.cache
-C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.ProviderZ.csproj.CoreCompileInputs.cache
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\bin\Debug\Poc.Rabbitmq.Core.Infrastructure.ProviderZ.dll
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\bin\Debug\Poc.Rabbitmq.Core.Infrastructure.ProviderZ.pdb
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\bin\Debug\Autofac.Configuration.dll
@@ -196,6 +194,8 @@ C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\bin\Debug\Po
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\bin\Debug\Poc.Rabbitmq.Core.Domain.dll.config
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\bin\Debug\Poc.Rabbitmq.Core.Infrastructure.Cache.pdb
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\bin\Debug\Poc.Rabbitmq.Core.Infrastructure.Provider.pdb
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.ProviderZ.csprojAssemblyReference.cache
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.ProviderZ.csproj.CoreCompileInputs.cache
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.ProviderZ.csproj.CopyComplete
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.ProviderZ.dll
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.ProviderZ\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.ProviderZ.pdb

@@ -1,5 +1,3 @@
-C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\obj\Debug\Poc.Rabbitmq.Core.Domain.csprojAssemblyReference.cache
-C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\obj\Debug\Poc.Rabbitmq.Core.Domain.csproj.CoreCompileInputs.cache
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\bin\Debug\Poc.Rabbitmq.Core.Domain.dll.config
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\bin\Debug\Poc.Rabbitmq.Core.Domain.dll
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\bin\Debug\Poc.Rabbitmq.Core.Domain.pdb
@@ -12,6 +10,8 @@ C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\bin\Debug\System.Text.Encoding
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\bin\Debug\System.Text.Json.dll
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\bin\Debug\System.Threading.Tasks.Extensions.dll
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\bin\Debug\System.ValueTuple.dll
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\obj\Debug\Poc.Rabbitmq.Core.Domain.csproj.CoreCompileInputs.cache
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\obj\Debug\Poc.Rabbitmq.Core.Domain.csproj.CopyComplete
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\obj\Debug\Poc.Rabbitmq.Core.Domain.dll
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\obj\Debug\Poc.Rabbitmq.Core.Domain.pdb
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Domain\obj\Debug\Poc.Rabbitmq.Core.Domain.csprojAssemblyReference.cache

@@ -3,3 +3,4 @@ C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.Cache\bin\Debug\Poc.Ra
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.Cache\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.Cache.csproj.CoreCompileInputs.cache
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.Cache\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.Cache.dll
 C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.Cache\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.Cache.pdb
+C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.Cache\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.Cache.csprojAssemblyReference.cache
