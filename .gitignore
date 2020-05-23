@@ -8,4 +8,4 @@
 
 *.user
 /**/*.user
-/Vueling.Contingency.CancelAndVoucherRefund.WebApi/Vueling.Contingency.CancelAndVoucherRefund.WebApi.csproj.user
+.vs/
