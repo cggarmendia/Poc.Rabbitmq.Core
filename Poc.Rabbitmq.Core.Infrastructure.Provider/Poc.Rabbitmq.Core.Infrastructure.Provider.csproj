@@ -67,6 +67,7 @@
     <Compile Include="Dto\Common\PassengerFee.cs" />
     <Compile Include="Dto\Common\PassengerSsr.cs" />
     <Compile Include="Dto\Common\Segment.cs" />
+    <Compile Include="Dto\Common\SourcePOC.cs" />
     <Compile Include="Dto\Core\AccountTransactionCode.cs" />
     <Compile Include="Dto\Payment\AddPaymentResponse.cs" />
     <Compile Include="Dto\Payment\Payment.cs" />

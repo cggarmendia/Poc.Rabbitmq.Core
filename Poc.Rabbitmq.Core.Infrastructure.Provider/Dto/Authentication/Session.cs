@@ -3,5 +3,6 @@
     public class SessionDto
     {
         public string SessionToken { get; set; }
+        public string SecureToken { get; set; }
     }
 }
