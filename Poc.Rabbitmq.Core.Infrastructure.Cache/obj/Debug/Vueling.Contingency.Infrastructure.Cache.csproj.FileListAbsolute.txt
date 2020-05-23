@@ -1,5 +1,0 @@
-C:\VY\Vueling.Contingency.Core\Vueling.Contingency.Infrastructure.Cache\bin\Debug\Vueling.Contingency.Infrastructure.Cache.dll
-C:\VY\Vueling.Contingency.Core\Vueling.Contingency.Infrastructure.Cache\bin\Debug\Vueling.Contingency.Infrastructure.Cache.pdb
-C:\VY\Vueling.Contingency.Core\Vueling.Contingency.Infrastructure.Cache\obj\Debug\Vueling.Contingency.Infrastructure.Cache.csproj.CoreCompileInputs.cache
-C:\VY\Vueling.Contingency.Core\Vueling.Contingency.Infrastructure.Cache\obj\Debug\Vueling.Contingency.Infrastructure.Cache.dll
-C:\VY\Vueling.Contingency.Core\Vueling.Contingency.Infrastructure.Cache\obj\Debug\Vueling.Contingency.Infrastructure.Cache.pdb

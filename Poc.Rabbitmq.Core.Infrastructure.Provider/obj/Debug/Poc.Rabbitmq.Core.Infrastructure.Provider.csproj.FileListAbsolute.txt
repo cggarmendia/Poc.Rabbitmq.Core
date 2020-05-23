@@ -1,6 +1,0 @@
-C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.Provider\bin\Debug\Poc.Rabbitmq.Core.Infrastructure.Provider.dll
-C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.Provider\bin\Debug\Poc.Rabbitmq.Core.Infrastructure.Provider.pdb
-C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.Provider\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.Provider.csprojAssemblyReference.cache
-C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.Provider\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.Provider.csproj.CoreCompileInputs.cache
-C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.Provider\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.Provider.dll
-C:\src\Poc.Rabbitmq.Core\Poc.Rabbitmq.Core.Infrastructure.Provider\obj\Debug\Poc.Rabbitmq.Core.Infrastructure.Provider.pdb
