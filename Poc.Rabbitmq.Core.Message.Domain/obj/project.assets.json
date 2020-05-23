@@ -1,69 +1,14 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v4.7.2": {
-      "Vueling.Messaging.Message/1.0.2": {
-        "type": "package",
-        "compile": {
-          "lib/net35/Vueling.Messaging.Message.dll": {}
-        },
-        "runtime": {
-          "lib/net35/Vueling.Messaging.Message.dll": {}
-        }
-      }
-    },
-    ".NETFramework,Version=v4.7.2/win": {
-      "Vueling.Messaging.Message/1.0.2": {
-        "type": "package",
-        "compile": {
-          "lib/net35/Vueling.Messaging.Message.dll": {}
-        },
-        "runtime": {
-          "lib/net35/Vueling.Messaging.Message.dll": {}
-        }
-      }
-    },
-    ".NETFramework,Version=v4.7.2/win-x64": {
-      "Vueling.Messaging.Message/1.0.2": {
-        "type": "package",
-        "compile": {
-          "lib/net35/Vueling.Messaging.Message.dll": {}
-        },
-        "runtime": {
-          "lib/net35/Vueling.Messaging.Message.dll": {}
-        }
-      }
-    },
-    ".NETFramework,Version=v4.7.2/win-x86": {
-      "Vueling.Messaging.Message/1.0.2": {
-        "type": "package",
-        "compile": {
-          "lib/net35/Vueling.Messaging.Message.dll": {}
-        },
-        "runtime": {
-          "lib/net35/Vueling.Messaging.Message.dll": {}
-        }
-      }
-    }
+    ".NETFramework,Version=v4.7.2": {},
+    ".NETFramework,Version=v4.7.2/win": {},
+    ".NETFramework,Version=v4.7.2/win-x64": {},
+    ".NETFramework,Version=v4.7.2/win-x86": {}
   },
-  "libraries": {
-    "Vueling.Messaging.Message/1.0.2": {
-      "sha512": "3BKSY5LK0LM9eaCsLPDbwi1ol0+NkAN7L09vMTMY3m4/whiJBpccbjQ7WuZmAxY39nx/gS+ok6FLRSjNwyW2qA==",
-      "type": "package",
-      "path": "vueling.messaging.message/1.0.2",
-      "files": [
-        ".nupkg.metadata",
-        "lib/net35/Vueling.Messaging.Message.dll",
-        "lib/net35/Vueling.Messaging.Message.pdb",
-        "vueling.messaging.message.1.0.2.nupkg.sha512",
-        "vueling.messaging.message.nuspec"
-      ]
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v4.7.2": [
-      "Vueling.Messaging.Message >= 1.0.2"
-    ]
+    ".NETFramework,Version=v4.7.2": []
   },
   "packageFolders": {
     "C:\\Users\\claudiogg\\.nuget\\packages\\": {},
@@ -102,14 +47,7 @@
       }
     },
     "frameworks": {
-      "net472": {
-        "dependencies": {
-          "Vueling.Messaging.Message": {
-            "target": "Package",
-            "version": "[1.0.2, )"
-          }
-        }
-      }
+      "net472": {}
     },
     "runtimes": {
       "win": {

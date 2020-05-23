@@ -90,11 +90,6 @@
       <Name>Poc.Rabbitmq.Core.Infrastructure.Provider</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="Vueling.Extensions.Library">
-      <Version>1.0.1</Version>
-    </PackageReference>
-  </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

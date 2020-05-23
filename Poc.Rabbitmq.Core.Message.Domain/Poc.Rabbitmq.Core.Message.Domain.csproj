@@ -50,11 +50,6 @@
     <Compile Include="Common\FlightProcessedRequest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="Vueling.Messaging.Message">
-      <Version>1.0.2</Version>
-    </PackageReference>
-  </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
